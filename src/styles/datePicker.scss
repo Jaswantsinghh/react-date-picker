@@ -1,0 +1,92 @@
+.datePickerWrapper{
+    display: flex;
+    flex-flow: column nowrap;
+    position: absolute;
+    background-color: white;
+    box-shadow: 15px 15px 45px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    font-family: Brandon Grotesque;
+    font-style: normal;
+    font-weight: 420;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.dateSelect, .dateSelect:active{
+    border: none;
+    outline: none;
+    padding: 10px 30px 10px 10px;
+    border-radius: 4px;
+}
+
+.dateSelect:visited{
+    background-color: white;
+}
+.dateSelect{
+    background: linear-gradient(180deg, #E44848 0%, #E4486D 100%), #F8F7FA;
+    color: white;
+}
+option{
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.dateSelect, select{
+    font-family: Brandon Grotesque;
+    font-style: normal;
+    font-weight: 420;
+    font-size: 18px;
+    line-height: 24px;
+}
+.rdrMonthAndYearPickers select{
+    border: black;
+
+}
+.dateSelect:hover, .dateSelect:active{
+    cursor: pointer;
+    background-color:rgba(0,0,0,0.07);
+}
+.rdrCalendarWrapper{
+    border-radius: 15px;
+}
+.dateSelect{
+    margin: 20px auto;
+    margin-bottom: 0;
+}
+.rdrWeekDay{
+    color: black;
+    font-weight: 420;
+    font-size: 16px;
+    line-height: 24px; 
+}
+.container{
+    background-color: white;
+}
+.calendar{
+    box-shadow: 15px 15px 45px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+.rdrMonth{
+    width: 302px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.rdrSelected{
+    border-radius: 50%;
+    width: 26px;
+    height: 26px;
+    margin-left: 6px;
+    margin-right: 6px;
+    background: linear-gradient(180deg, #E44848 0%, #E4486D 100%), #F8F7FA;
+}
+.rdrNextPrevButton, .rdrNextPrevButton:hover{
+    background: linear-gradient(180deg, #E44848 0%, #E4486D 100%), #F8F7FA;
+}
+.rdrPprevButton i{
+    border-color: transparent rgb(255, 255, 255) transparent transparent;
+}
+.rdrNextButton i{
+    border-color: transparent transparent transparent rgb(255, 255, 255);
+}
