@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-date-picker/static/css/main.b7aa34ac.chunk.css",
-    "main.js": "/react-date-picker/static/js/main.fadd359e.chunk.js",
-    "main.js.map": "/react-date-picker/static/js/main.fadd359e.chunk.js.map",
+    "main.js": "/react-date-picker/static/js/main.a972b59d.chunk.js",
+    "main.js.map": "/react-date-picker/static/js/main.a972b59d.chunk.js.map",
     "runtime-main.js": "/react-date-picker/static/js/runtime-main.4dee5574.js",
     "runtime-main.js.map": "/react-date-picker/static/js/runtime-main.4dee5574.js.map",
     "static/css/2.c2e18bb2.chunk.css": "/react-date-picker/static/css/2.c2e18bb2.chunk.css",
-    "static/js/2.ddcd6f18.chunk.js": "/react-date-picker/static/js/2.ddcd6f18.chunk.js",
-    "static/js/2.ddcd6f18.chunk.js.map": "/react-date-picker/static/js/2.ddcd6f18.chunk.js.map",
+    "static/js/2.2952271d.chunk.js": "/react-date-picker/static/js/2.2952271d.chunk.js",
+    "static/js/2.2952271d.chunk.js.map": "/react-date-picker/static/js/2.2952271d.chunk.js.map",
     "index.html": "/react-date-picker/index.html",
     "static/css/2.c2e18bb2.chunk.css.map": "/react-date-picker/static/css/2.c2e18bb2.chunk.css.map",
     "static/css/main.b7aa34ac.chunk.css.map": "/react-date-picker/static/css/main.b7aa34ac.chunk.css.map",
-    "static/js/2.ddcd6f18.chunk.js.LICENSE.txt": "/react-date-picker/static/js/2.ddcd6f18.chunk.js.LICENSE.txt"
+    "static/js/2.2952271d.chunk.js.LICENSE.txt": "/react-date-picker/static/js/2.2952271d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4dee5574.js",
     "static/css/2.c2e18bb2.chunk.css",
-    "static/js/2.ddcd6f18.chunk.js",
+    "static/js/2.2952271d.chunk.js",
     "static/css/main.b7aa34ac.chunk.css",
-    "static/js/main.fadd359e.chunk.js"
+    "static/js/main.a972b59d.chunk.js"
   ]
 }
