@@ -81,7 +81,7 @@ return(
     ))}
   </select>
   <Calendar 
-  classNames="calendar"
+  className="calendar"
   onChange={item => setDate(item)}
   locale={locales[locale]} date={date} />
 </div>
